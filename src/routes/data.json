@@ -1,0 +1,8458 @@
+[
+    {
+      "company": "ByteDance",
+      "value": 225,
+      "date": 2017,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "SpaceX",
+      "value": 137,
+      "date": 2012,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "SHEIN",
+      "value": 100,
+      "date": 2018,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Stripe",
+      "value": 50,
+      "date": 2014,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Checkout.com",
+      "value": 40,
+      "date": 2019,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Canva",
+      "value": 40,
+      "date": 2018,
+      "country": "Australia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Revolut",
+      "value": 33,
+      "date": 2018,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Epic Games",
+      "value": 31.5,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Databricks",
+      "value": 31,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Fanatics",
+      "value": 31,
+      "date": 2012,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Chime",
+      "value": 25,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "BYJU's",
+      "value": 22,
+      "date": 2017,
+      "country": "India",
+      "industry": "Edtech"
+    },
+    {
+      "company": "J&T Express",
+      "value": 20,
+      "date": 2021,
+      "country": "Indonesia",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "OpenAI",
+      "value": 20,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Xiaohongshu",
+      "value": 20,
+      "date": 2016,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Miro",
+      "value": 17.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Yuanfudao",
+      "value": 15.5,
+      "date": 2017,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "goPuff",
+      "value": 15,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Yuanqi Senlin",
+      "value": 15,
+      "date": 2020,
+      "country": "China",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Ripple",
+      "value": 15,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Discord",
+      "value": 15,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "DJI Innovations",
+      "value": 15,
+      "date": 2015,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Blockchain.com",
+      "value": 14,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Plaid",
+      "value": 13.5,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "OpenSea",
+      "value": 13.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Grammarly",
+      "value": 13,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Celonis",
+      "value": 13,
+      "date": 2018,
+      "country": "Alemania",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Devoted Salud",
+      "value": 12.6,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Faire",
+      "value": 12.59,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Brex",
+      "value": 12.3,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "GoodLeap",
+      "value": 12,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Deel",
+      "value": 12,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Xingsheng Selected",
+      "value": 12,
+      "date": 2020,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Biosplice Therapeutics",
+      "value": 12,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Bitmain Technologies",
+      "value": 12,
+      "date": 2018,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "JUUL Labs",
+      "value": 12,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Airtable",
+      "value": 11.7,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "ZongMu Technology",
+      "value": 11.4,
+      "date": 2021,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Rippling",
+      "value": 11.25,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Global Switch",
+      "value": 11.1,
+      "date": 2016,
+      "country": "Reino Unido",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Bolt",
+      "value": 11,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Swiggy",
+      "value": 10.7,
+      "date": 2018,
+      "country": "India",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Alchemy",
+      "value": 10.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "KuCoin",
+      "value": 10,
+      "date": 2022,
+      "country": "Seychelles",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Digital Currency Group",
+      "value": 10,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Wiz",
+      "value": 10,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Thrasio",
+      "value": 10,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Notion Labs",
+      "value": 10,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Lalamove",
+      "value": 10,
+      "date": 2019,
+      "country": "Hong Kong",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Talkdesk",
+      "value": 10,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "reddit",
+      "value": 10,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Chehaoduo",
+      "value": 10,
+      "date": 2016,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Gusto",
+      "value": 10,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Instacart",
+      "value": 10,
+      "date": 2014,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "ServiceTitan",
+      "value": 9.5,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "HEYTEA",
+      "value": 9.28,
+      "date": 2019,
+      "country": "China",
+      "industry": "Otros"
+    },
+    {
+      "company": "N26",
+      "value": 9.23,
+      "date": 2019,
+      "country": "Alemania",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Klaviyo",
+      "value": 9.2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Navan",
+      "value": 9.2,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Northvolt",
+      "value": "09.08",
+      "date": 2019,
+      "country": "Suecia",
+      "industry": "Otros"
+    },
+    {
+      "company": "OYO Rooms",
+      "value": 9,
+      "date": 2018,
+      "country": "India",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Niantic",
+      "value": 9,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Tanium",
+      "value": 9,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Getir",
+      "value": 8.8,
+      "date": 2021,
+      "country": "Turquía",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Rapyd",
+      "value": 8.75,
+      "date": 2019,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Kavak",
+      "value": 8.7,
+      "date": 2020,
+      "country": "México",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Chainalysis",
+      "value": 8.6,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Nuro",
+      "value": 8.6,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Personio",
+      "value": 8.5,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SumUp",
+      "value": 8.5,
+      "date": 2019,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Pony.ai",
+      "value": 8.5,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Anduril",
+      "value": 8.48,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Bolt",
+      "value": 8.4,
+      "date": 2018,
+      "country": "Estonia",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Lacework",
+      "value": 8.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Tipalti",
+      "value": 8.3,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Ramp",
+      "value": 8.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Tempus",
+      "value": 8.1,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "StarkWare",
+      "value": 8,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "FalconX",
+      "value": 8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Fireblocks",
+      "value": 8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Dream11",
+      "value": 8,
+      "date": 2019,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Flexport",
+      "value": 8,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Caris",
+      "value": 7.83,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Hopin",
+      "value": 7.75,
+      "date": 2020,
+      "country": "Reino Unido",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Dapper Labs",
+      "value": 7.6,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Razorpay",
+      "value": 7.5,
+      "date": 2020,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Netskope",
+      "value": 7.5,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Ola Cabs",
+      "value": 7.5,
+      "date": 2014,
+      "country": "India",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Automattic",
+      "value": 7.5,
+      "date": 2013,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Snyk",
+      "value": 7.4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Carta",
+      "value": 7.4,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Scale AI",
+      "value": 7.3,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Gong",
+      "value": 7.25,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Gemini",
+      "value": 7.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ConsenSys",
+      "value": 7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Ro",
+      "value": 7,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Toss",
+      "value": 7,
+      "date": 2018,
+      "country": "Corea del Sur",
+      "industry": "Fintech"
+    },
+    {
+      "company": "We Doctor",
+      "value": 7,
+      "date": 2015,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "1Password",
+      "value": 6.8,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Automation Anywhere",
+      "value": 6.8,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Klarna",
+      "value": 6.7,
+      "date": 2011,
+      "country": "Suecia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Ziroom",
+      "value": 6.6,
+      "date": 2018,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "SVOLT",
+      "value": 6.51,
+      "date": 2020,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Mollie",
+      "value": 6.5,
+      "date": 2020,
+      "country": "Holanda",
+      "industry": "Fintech"
+    },
+    {
+      "company": "National Stock Exchange of India",
+      "value": 6.5,
+      "date": 2020,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "CRED",
+      "value": 6.4,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Doctolib",
+      "value": 6.4,
+      "date": 2019,
+      "country": "Francia",
+      "industry": "Salud"
+    },
+    {
+      "company": "DataRobot",
+      "value": 6.3,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Upgrade",
+      "value": 6.28,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Hinge Salud",
+      "value": 6.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Black Unicorn Factory",
+      "value": 6.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Benchling",
+      "value": 6.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "iCapital Network",
+      "value": 6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Better.com",
+      "value": 6,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Royole Corporation",
+      "value": 6,
+      "date": 2015,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Attentive",
+      "value": 5.99,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Lyra Salud",
+      "value": 5.85,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Easyhome",
+      "value": 5.78,
+      "date": 2018,
+      "country": "China",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Lianjia",
+      "value": 5.77,
+      "date": 2016,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "The Boring Company",
+      "value": 5.7,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "RELEX",
+      "value": 5.7,
+      "date": 2022,
+      "country": "Finlandia",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Back Market",
+      "value": 5.7,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Workato",
+      "value": 5.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Cityblock Salud",
+      "value": 5.7,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Vice Media",
+      "value": 5.7,
+      "date": 2011,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "ContentSquare",
+      "value": 5.6,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "FiveTran",
+      "value": 5.6,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Postman",
+      "value": 5.6,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Mambu",
+      "value": 5.5,
+      "date": 2021,
+      "country": "Holanda",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Airwallex",
+      "value": 5.5,
+      "date": 2019,
+      "country": "Australia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Trade Republic",
+      "value": 5.36,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Collibra",
+      "value": 5.25,
+      "date": 2019,
+      "country": "Bélgica",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Rappi",
+      "value": 5.25,
+      "date": 2018,
+      "country": "Colombia",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "6Sense",
+      "value": 5.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "QuintoAndar",
+      "value": 5.1,
+      "date": 2019,
+      "country": "Brasil",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "OneTrust",
+      "value": 5.1,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "C6 Bank",
+      "value": "05.05",
+      "date": 2020,
+      "country": "Brasil",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Qonto",
+      "value": 5,
+      "date": 2022,
+      "country": "Francia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Flink",
+      "value": 5,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "ZEPZ",
+      "value": 5,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "OfBusiness",
+      "value": 5,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "SambaNova Systems",
+      "value": 5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "ShareChat",
+      "value": 5,
+      "date": 2021,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Hopper",
+      "value": 5,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Coalition",
+      "value": 5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Cockroach Labs",
+      "value": 5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "VerSe Innovation",
+      "value": 5,
+      "date": 2020,
+      "country": "India",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Howden Group Holdings",
+      "value": 5,
+      "date": 2020,
+      "country": "Reino Unido",
+      "industry": "Otros"
+    },
+    {
+      "company": "Moon Active",
+      "value": 5,
+      "date": 2020,
+      "country": "Israel",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Pine Labs",
+      "value": 5,
+      "date": 2020,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Icertis",
+      "value": 5,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Ola Electric Mobility",
+      "value": 5,
+      "date": 2019,
+      "country": "India",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Horizon Robotics",
+      "value": 5,
+      "date": 2019,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Hello TransTech",
+      "value": 5,
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "OakNorth Bank",
+      "value": 5,
+      "date": 2017,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Grafana Labs",
+      "value": 4.93,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Meesho",
+      "value": 4.9,
+      "date": 2021,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Reify Salud",
+      "value": 4.8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Cerebral",
+      "value": 4.8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Creditas",
+      "value": 4.8,
+      "date": 2020,
+      "country": "Brasil",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Chipone",
+      "value": 4.73,
+      "date": 2021,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "SonarSource",
+      "value": 4.7,
+      "date": 2022,
+      "country": "Suiza",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Pleo",
+      "value": 4.7,
+      "date": 2021,
+      "country": "Dinamarca",
+      "industry": "Fintech"
+    },
+    {
+      "company": "BetterUp",
+      "value": 4.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "UBTECH Robotics",
+      "value": 4.58,
+      "date": 2016,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Color",
+      "value": 4.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Checkr",
+      "value": 4.6,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Lendable",
+      "value": 4.58,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Vinted",
+      "value": 4.53,
+      "date": 2019,
+      "country": "Lituania",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Socure",
+      "value": 4.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Lenskart",
+      "value": 4.5,
+      "date": 2019,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "wefox",
+      "value": 4.5,
+      "date": 2019,
+      "country": "Alemania",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Monzo",
+      "value": 4.5,
+      "date": 2018,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "VIPKid",
+      "value": 4.5,
+      "date": 2016,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Anthropic",
+      "value": 4.4,
+      "date": 2023,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "WeRide",
+      "value": 4.4,
+      "date": 2020,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Guild Education",
+      "value": 4.4,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Outreach",
+      "value": 4.4,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Sorare",
+      "value": 4.3,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Arctic Wolf Networks",
+      "value": 4.3,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "OutSystems",
+      "value": 4.3,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Miaoshou Doctor",
+      "value": 4.25,
+      "date": 2019,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Globalization Partners",
+      "value": 4.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "dbt Labs",
+      "value": 4.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Relativity Space",
+      "value": 4.2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "ThoughtSpot",
+      "value": 4.2,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SSENSE",
+      "value": 4.15,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Weee!",
+      "value": 4.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "BitPanda",
+      "value": 4.11,
+      "date": 2021,
+      "country": "Austria",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Dataminr",
+      "value": 4.1,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Abnormal Security",
+      "value": 4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Yuga Labs",
+      "value": 4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Vuori",
+      "value": 4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "BrowserStack",
+      "value": 4,
+      "date": 2021,
+      "country": "Irlanda",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Aurora Solar",
+      "value": 4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Melio",
+      "value": 4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Clubhouse",
+      "value": 4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Digit Insurance",
+      "value": 4,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Zapier",
+      "value": 4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Webflow",
+      "value": 4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "PointClickCare",
+      "value": 4,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "ClickUp",
+      "value": 4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Olive",
+      "value": 4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Patreon",
+      "value": 4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Farmers Business Network",
+      "value": 4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Skydance Media",
+      "value": 4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Next Insurance",
+      "value": 4,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Impossible Foods",
+      "value": 4,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Cerebras Systems",
+      "value": 4,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Branch",
+      "value": 4,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Greensill",
+      "value": 4,
+      "date": 2018,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Radiology Partners",
+      "value": 4,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "MEGVII",
+      "value": 4,
+      "date": 2017,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Rubrik",
+      "value": 4,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Yello Mobile",
+      "value": 4,
+      "date": 2014,
+      "country": "Corea del Sur",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Houzz",
+      "value": 4,
+      "date": 2014,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Hozon Auto",
+      "value": 3.95,
+      "date": 2022,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Medlinker",
+      "value": 3.92,
+      "date": 2018,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "MessageBird",
+      "value": 3.8,
+      "date": 2020,
+      "country": "Holanda",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "StockX",
+      "value": 3.8,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Convoy",
+      "value": 3.8,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Intarcia Therapeutics",
+      "value": 3.8,
+      "date": 2014,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Articulate",
+      "value": 3.75,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Dutchie",
+      "value": 3.75,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Abogen",
+      "value": 3.7,
+      "date": 2021,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "Whatnot",
+      "value": 3.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Redwood Materials",
+      "value": 3.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Noom",
+      "value": 3.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Papaya Global",
+      "value": 3.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Harness",
+      "value": 3.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "GOAT",
+      "value": 3.7,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "VAST Data",
+      "value": 3.7,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Dataiku",
+      "value": 3.7,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Cohesity",
+      "value": 3.7,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Autograph",
+      "value": 3.66,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SpotOn",
+      "value": 3.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Relativity",
+      "value": 3.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Whoop",
+      "value": 3.6,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Applied Intuition",
+      "value": 3.6,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Course Hero",
+      "value": 3.6,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Otto Bock SaludCare",
+      "value": 3.52,
+      "date": 2017,
+      "country": "Alemania",
+      "industry": "Salud"
+    },
+    {
+      "company": "Helion Energy",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Celsius Network",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Flock Safety",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "GoStudent",
+      "value": 3.5,
+      "date": 2021,
+      "country": "Austria",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Handshake",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "ChargeBee Technologies",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Rec Room",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Highspot",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Tekion",
+      "value": 3.5,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Mirakl",
+      "value": 3.5,
+      "date": 2020,
+      "country": "Francia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "HyalRoute",
+      "value": 3.5,
+      "date": 2020,
+      "country": "Singapur",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Via",
+      "value": 3.5,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Acronis",
+      "value": 3.5,
+      "date": 2019,
+      "country": "Suiza",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Indigo Ag",
+      "value": 3.5,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Unacademy",
+      "value": 3.44,
+      "date": 2020,
+      "country": "India",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Odoo",
+      "value": 3.43,
+      "date": 2021,
+      "country": "Bélgica",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Upstox",
+      "value": 3.4,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "MoonPay",
+      "value": 3.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Improbable",
+      "value": 3.36,
+      "date": 2017,
+      "country": "Reino Unido",
+      "industry": "Otros"
+    },
+    {
+      "company": "OwnBackup",
+      "value": 3.35,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Starburst",
+      "value": 3.35,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Youxia Motors",
+      "value": 3.35,
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Kurly",
+      "value": 3.3,
+      "date": 2021,
+      "country": "Corea del Sur",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Cars24",
+      "value": 3.3,
+      "date": 2020,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Komodo Salud",
+      "value": 3.3,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Scopely",
+      "value": 3.3,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Sila Nanotechnologies",
+      "value": 3.3,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "BlockDaemon",
+      "value": 3.25,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Dadi Cinema",
+      "value": 3.24,
+      "date": 2016,
+      "country": "China",
+      "industry": "Otros"
+    },
+    {
+      "company": "Aiven",
+      "value": 3.21,
+      "date": 2021,
+      "country": "Finlandia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Astera Labs",
+      "value": 3.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Ironclad",
+      "value": 3.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Eikon Therapeutics",
+      "value": 3.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Retool",
+      "value": 3.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Blockstream",
+      "value": 3.2,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Eruditus Executive Education",
+      "value": 3.2,
+      "date": 2021,
+      "country": "India",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Skims",
+      "value": 3.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Cedar",
+      "value": 3.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Innovaccer",
+      "value": 3.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "ApplyBoard",
+      "value": 3.2,
+      "date": 2020,
+      "country": "Canadá",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Verkada",
+      "value": 3.2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Thumbtack",
+      "value": 3.2,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "PsiQuantum",
+      "value": 3.15,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Nuvemshop",
+      "value": 3.1,
+      "date": 2021,
+      "country": "Brasil",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "HighRadius",
+      "value": 3.1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Udaan",
+      "value": 3.1,
+      "date": 2018,
+      "country": "India",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Cross River Bank",
+      "value": 3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Inxeption",
+      "value": 3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Anchorage Digital",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "TradingView",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Sky Mavis",
+      "value": 3,
+      "date": 2021,
+      "country": "Vietnam",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Commure",
+      "value": 3.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "LaunchDarkly",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Contentful",
+      "value": 3,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Carbon Salud",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Remote",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Lucid Software",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Amber Group",
+      "value": 3,
+      "date": 2021,
+      "country": "Hong Kong",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ActiveCampaign",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Outschool",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Groww",
+      "value": 3,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Lattice",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "BlockFi",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Flutterwave",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Sentry",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Calendly",
+      "value": 3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Forter",
+      "value": 3,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Podium",
+      "value": 3,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Wildlife Studios",
+      "value": 3,
+      "date": 2019,
+      "country": "Brasil",
+      "industry": "Otros"
+    },
+    {
+      "company": "KK Group",
+      "value": 3,
+      "date": 2019,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "CMR Surgical",
+      "value": 3,
+      "date": 2019,
+      "country": "Reino Unido",
+      "industry": "Salud"
+    },
+    {
+      "company": "FlixMobility",
+      "value": 3,
+      "date": 2019,
+      "country": "Alemania",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Seismic",
+      "value": 3,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Zuoyebang",
+      "value": 3,
+      "date": 2018,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Circle",
+      "value": 3,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "BGL Group",
+      "value": 3,
+      "date": 2017,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "SouChe Holdings",
+      "value": 3,
+      "date": 2017,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Viajesoka",
+      "value": 3,
+      "date": 2017,
+      "country": "Indonesia",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Age of Learning",
+      "value": 3,
+      "date": 2016,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Yixia",
+      "value": 3,
+      "date": 2015,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Kraken",
+      "value": 2.92,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Loft",
+      "value": 2.9,
+      "date": 2020,
+      "country": "Brasil",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Workrise",
+      "value": 2.9,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Gokin Solar",
+      "value": 2.88,
+      "date": 2022,
+      "country": "China",
+      "industry": "Otros"
+    },
+    {
+      "company": "DriveWealth",
+      "value": 2.85,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "BharatPe",
+      "value": 2.85,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Alan",
+      "value": 2.85,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Motive",
+      "value": 2.85,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Zipline",
+      "value": 2.8,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Meicai",
+      "value": 2.8,
+      "date": 2016,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Nutrabolt",
+      "value": 2.79,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Graphcore",
+      "value": 2.77,
+      "date": 2018,
+      "country": "Reino Unido",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Dream Games",
+      "value": 2.75,
+      "date": 2021,
+      "country": "Turquía",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "MasterClass",
+      "value": 2.75,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Illumio",
+      "value": 2.75,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Transmit Security",
+      "value": 2.74,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Tridge",
+      "value": 2.7,
+      "date": 2022,
+      "country": "Corea del Sur",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Thought Machine",
+      "value": 2.7,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Nextiva",
+      "value": 2.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Ethos",
+      "value": 2.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "o9 Solutions",
+      "value": 2.7,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Tradeshift",
+      "value": 2.7,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Starling Bank",
+      "value": 2.69,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Zetwerk",
+      "value": 2.68,
+      "date": 2021,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "BackBase",
+      "value": 2.66,
+      "date": 2022,
+      "country": "Holanda",
+      "industry": "Fintech"
+    },
+    {
+      "company": "JumpCloud",
+      "value": 2.62,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Sourcegraph",
+      "value": 2.62,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Project44",
+      "value": 2.62,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Freenome",
+      "value": 2.62,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Unico",
+      "value": 2.6,
+      "date": 2021,
+      "country": "Brasil",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "ManoMano",
+      "value": 2.6,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Moglix",
+      "value": 2.6,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Clari",
+      "value": 2.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Axonius",
+      "value": 2.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Plume",
+      "value": 2.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Pendo",
+      "value": 2.6,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Eat Just",
+      "value": 2.59,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Oura",
+      "value": 2.55,
+      "date": 2022,
+      "country": "Finlandia",
+      "industry": "Salud"
+    },
+    {
+      "company": "Jetti Resources",
+      "value": 2.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Coda Payments",
+      "value": 2.5,
+      "date": 2022,
+      "country": "Singapur",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Games24x7",
+      "value": 2.5,
+      "date": 2022,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SiFive",
+      "value": 2.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "A24 Films",
+      "value": 2.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Immutable",
+      "value": 2.5,
+      "date": 2022,
+      "country": "Australia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Somatus",
+      "value": 2.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Uniphore",
+      "value": 2.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Varo Bank",
+      "value": 2.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Cribl",
+      "value": 2.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Vercel",
+      "value": 2.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Aura",
+      "value": 2.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Sysdig",
+      "value": 2.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Fetch Rewards",
+      "value": 2.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Side",
+      "value": 2.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Infra.Market",
+      "value": 2.5,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "DriveNets",
+      "value": 2.5,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Cato Networks",
+      "value": 2.5,
+      "date": 2020,
+      "country": "Israel",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "BYTON",
+      "value": 2.5,
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Vista Global",
+      "value": 2.5,
+      "date": 2017,
+      "country": "EAU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Hibob",
+      "value": 2.45,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Mobile Premier League",
+      "value": 2.45,
+      "date": 2021,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Uala",
+      "value": 2.45,
+      "date": 2021,
+      "country": "Argentina",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Cybereason",
+      "value": 2.44,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Star Charge",
+      "value": 2.41,
+      "date": 2021,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "EquipmentShare",
+      "value": 2.41,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Cgtz",
+      "value": 2.41,
+      "date": 2017,
+      "country": "China",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Beta Technologies",
+      "value": 2.4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Rokt",
+      "value": 2.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "BitSight Technologies",
+      "value": 2.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Exabeam",
+      "value": 2.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "HoneyBook",
+      "value": 2.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Paxos",
+      "value": 2.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ABL Space Systems",
+      "value": 2.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Trumid",
+      "value": 2.4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "PolicyBazaar",
+      "value": 2.4,
+      "date": 2019,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Carbon",
+      "value": 2.4,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Jobandtalent",
+      "value": 2.35,
+      "date": 2021,
+      "country": "España",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "ManyPets",
+      "value": 2.35,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "WEMAKEPRICE",
+      "value": 2.34,
+      "date": 2015,
+      "country": "Corea del Sur",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Biren Technology",
+      "value": 2.32,
+      "date": 2020,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Voodoo",
+      "value": 2.31,
+      "date": 2020,
+      "country": "Francia",
+      "industry": "Otros"
+    },
+    {
+      "company": "Shield AI",
+      "value": 2.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Bowery Farming",
+      "value": 2.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Greenlight",
+      "value": 2.3,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Uptake",
+      "value": 2.3,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "MoMo",
+      "value": 2.27,
+      "date": 2021,
+      "country": "Vietnam",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Pattern",
+      "value": 2.25,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "UpGrad",
+      "value": 2.25,
+      "date": 2021,
+      "country": "India",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Algolia",
+      "value": 2.25,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Zume",
+      "value": 2.25,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Newfront Insurance",
+      "value": 2.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "BloomReach",
+      "value": 2.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "G7 Networks",
+      "value": 2.2,
+      "date": 2022,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Motif FoodWorks",
+      "value": 2.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Bitso",
+      "value": 2.2,
+      "date": 2021,
+      "country": "México",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Current",
+      "value": 2.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Skydio",
+      "value": 2.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Dialpad",
+      "value": 2.2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "MUSINSA",
+      "value": 2.2,
+      "date": 2019,
+      "country": "Corea del Sur",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Gympass",
+      "value": 2.2,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "NuCom Group",
+      "value": 2.2,
+      "date": 2018,
+      "country": "Alemania",
+      "industry": "Otros"
+    },
+    {
+      "company": "Accelerant",
+      "value": 2.19,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Otros"
+    },
+    {
+      "company": "Huaqin Telecom Technology",
+      "value": 2.19,
+      "date": 2019,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Addepar",
+      "value": 2.17,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Qualia",
+      "value": 2.17,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "YITU Technology",
+      "value": 2.17,
+      "date": 2018,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "CloudWalk",
+      "value": 2.15,
+      "date": 2021,
+      "country": "Brasil",
+      "industry": "Fintech"
+    },
+    {
+      "company": "CoinDCX",
+      "value": 2.15,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Jeeves",
+      "value": 2.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "GoCardless",
+      "value": 2.1,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "PayFit",
+      "value": 2.1,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Medable",
+      "value": 2.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Moveworks",
+      "value": 2.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Forto",
+      "value": 2.1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "ReCharge",
+      "value": 2.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Urban Company",
+      "value": 2.1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Aledade",
+      "value": 2.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Eightfold.ai",
+      "value": 2.1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "FirstCry",
+      "value": 2.1,
+      "date": 2020,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Viva Wallet",
+      "value": "02.05",
+      "date": 2022,
+      "country": "Grecia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ShiftKey",
+      "value": 2,
+      "date": 2023,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Mysten Labs",
+      "value": 2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "21.co",
+      "value": 2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Rimac Automobili",
+      "value": 2,
+      "date": 2022,
+      "country": "Croatia",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Babel Finance",
+      "value": 2,
+      "date": 2022,
+      "country": "Hong Kong",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Hugging Face",
+      "value": 2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "ROX Motor",
+      "value": 2,
+      "date": 2022,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Salsify",
+      "value": 2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "CertiK",
+      "value": 2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Cloudinary",
+      "value": 2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Akulaku",
+      "value": 2,
+      "date": 2022,
+      "country": "Indonesia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Exotec",
+      "value": 2,
+      "date": 2022,
+      "country": "Francia",
+      "industry": "Hardware"
+    },
+    {
+      "company": "LTK",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SWORD Salud",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Netlify",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Zilch",
+      "value": 2,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Drata",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "ClickHouse",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Devo Technology",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Tier",
+      "value": 2,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Modern Treasury",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Advance Intelligence Group",
+      "value": 2,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Black Sesame Technologies",
+      "value": 2,
+      "date": 2021,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Spring Salud",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "GrubMarket",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Solugen",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Aviatrix",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Opay",
+      "value": 2,
+      "date": 2021,
+      "country": "Nigeria",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Divvy Homes",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "XtalPi",
+      "value": 2,
+      "date": 2021,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "MURAL",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "GO1",
+      "value": 2,
+      "date": 2021,
+      "country": "Australia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Lunar",
+      "value": 2,
+      "date": 2021,
+      "country": "Dinamarca",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Bunq",
+      "value": 2,
+      "date": 2021,
+      "country": "Holanda",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Neo4j",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Iterable",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Clip",
+      "value": 2,
+      "date": 2021,
+      "country": "México",
+      "industry": "Fintech"
+    },
+    {
+      "company": "VerbIT",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Chipper Cash",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Pipe",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Beisen",
+      "value": 2,
+      "date": 2021,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Kajabi",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "KRY",
+      "value": 2,
+      "date": 2021,
+      "country": "Suecia",
+      "industry": "Salud"
+    },
+    {
+      "company": "Misfits Market",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Hive",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Clearco",
+      "value": 2,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Guoquan Shihui",
+      "value": 2,
+      "date": 2021,
+      "country": "China",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Earnix",
+      "value": 2,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Dremio",
+      "value": 2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "ISN",
+      "value": 2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Virta Salud",
+      "value": 2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Unqork",
+      "value": 2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Xingyun Group",
+      "value": 2,
+      "date": 2020,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Redis Labs",
+      "value": 2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Apeel Sciences",
+      "value": 2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Keep",
+      "value": 2,
+      "date": 2020,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Everlaw",
+      "value": 2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "AppsFlyer",
+      "value": 2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Kujiale",
+      "value": 2,
+      "date": 2019,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SmartNews",
+      "value": 2,
+      "date": 2019,
+      "country": "Japón",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Trax",
+      "value": 2,
+      "date": 2019,
+      "country": "Singapur",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Druva",
+      "value": 2,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Loggi",
+      "value": 2,
+      "date": 2019,
+      "country": "Brasil",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Mafengwo",
+      "value": 2,
+      "date": 2019,
+      "country": "China",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Kaseya",
+      "value": 2,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "OCSiAl",
+      "value": 2,
+      "date": 2019,
+      "country": "Luxemburgo",
+      "industry": "Otros"
+    },
+    {
+      "company": "Calm",
+      "value": 2,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "4Paradigm",
+      "value": 2,
+      "date": 2018,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Geek+",
+      "value": 2,
+      "date": 2018,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Formlabs",
+      "value": 2,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Preferred Networks",
+      "value": 2,
+      "date": 2018,
+      "country": "Japón",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Xinchao Media",
+      "value": 2,
+      "date": 2018,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Quora",
+      "value": 2,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "HuiMin",
+      "value": 2,
+      "date": 2016,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "BlaBlaCar",
+      "value": 2,
+      "date": 2015,
+      "country": "Francia",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Tubatu.com",
+      "value": 2,
+      "date": 2015,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Magic Leap",
+      "value": 2,
+      "date": 2014,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Avant",
+      "value": 2,
+      "date": 2012,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Trendy Group International",
+      "value": 2,
+      "date": 2012,
+      "country": "Hong Kong",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Ankorstore",
+      "value": 1.98,
+      "date": 2022,
+      "country": "Francia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Fever Labs",
+      "value": 1.96,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Roofstock",
+      "value": 1.94,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "thatgamecompany",
+      "value": 1.94,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "ZigBang",
+      "value": 1.93,
+      "date": 2022,
+      "country": "Corea del Sur",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Material Bank",
+      "value": 1.9,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "ConcertAI",
+      "value": 1.9,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Acorns",
+      "value": 1.9,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "CoinSwitch Kuber",
+      "value": 1.9,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "MX",
+      "value": 1.9,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "eDaili",
+      "value": 1.9,
+      "date": 2019,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "InVision",
+      "value": 1.9,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Volocopter",
+      "value": 1.87,
+      "date": 2022,
+      "country": "Alemania",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "CFGI",
+      "value": 1.85,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ENOVATE",
+      "value": 1.85,
+      "date": 2019,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "MEGAZONE",
+      "value": 1.83,
+      "date": 2022,
+      "country": "Corea del Sur",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Scroll",
+      "value": 1.8,
+      "date": 2023,
+      "country": "Seychelles",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Kindbody",
+      "value": 1.8,
+      "date": 2023,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Slice",
+      "value": 1.8,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Opentrons",
+      "value": 1.8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "FullStory",
+      "value": 1.8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Diamond Foundry",
+      "value": 1.8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Orca Security",
+      "value": 1.8,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Lightricks",
+      "value": 1.8,
+      "date": 2019,
+      "country": "Israel",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "ZocDoc",
+      "value": 1.8,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Cambrian BioPharma",
+      "value": 1.79,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "AIWAYS",
+      "value": 1.78,
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Crusoe",
+      "value": 1.75,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Spinny",
+      "value": 1.75,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Trulioo",
+      "value": 1.75,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Productboard",
+      "value": 1.73,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Forte Labs",
+      "value": 1.73,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Apus Group",
+      "value": 1.73,
+      "date": 2015,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Redesign Salud",
+      "value": 1.7,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Front",
+      "value": 1.7,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "AlphaSense",
+      "value": 1.7,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Multiverse",
+      "value": 1.7,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Pax8",
+      "value": 1.7,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Spotter",
+      "value": 1.7,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "DealShare",
+      "value": 1.7,
+      "date": 2022,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "ZenBusiness",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "H2O.ai",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Reltio",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Dragos",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Wave",
+      "value": 1.7,
+      "date": 2021,
+      "country": "Senegal",
+      "industry": "Fintech"
+    },
+    {
+      "company": "HomeLight",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Carsome",
+      "value": 1.7,
+      "date": 2021,
+      "country": "Malasia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Alation",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "CircleCI",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "DispatchSalud",
+      "value": 1.7,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Vestiaire Collective",
+      "value": 1.7,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Gousto",
+      "value": 1.7,
+      "date": 2020,
+      "country": "Reino Unido",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "PAX",
+      "value": 1.7,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Harry's",
+      "value": 1.7,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Tessera Therapeutics",
+      "value": 1.69,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Uniswap",
+      "value": 1.66,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "FinAccel",
+      "value": 1.66,
+      "date": 2022,
+      "country": "Singapur",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Incredible Salud",
+      "value": 1.65,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Optimism",
+      "value": 1.65,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "solarisBank",
+      "value": 1.65,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Glossier",
+      "value": 1.65,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Transcarent",
+      "value": 1.62,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Jusfoun Big Data",
+      "value": 1.62,
+      "date": 2018,
+      "country": "China",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Zhubajie",
+      "value": 1.61,
+      "date": 2015,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Pave",
+      "value": 1.6,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Magic Eden",
+      "value": 1.6,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Vanta",
+      "value": 1.6,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Monte Carlo",
+      "value": 1.6,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Nord Security",
+      "value": 1.6,
+      "date": 2022,
+      "country": "Lituania",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Capitolis",
+      "value": 1.6,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Cresta",
+      "value": 1.6,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Wayflyer",
+      "value": 1.6,
+      "date": 2022,
+      "country": "Irlanda",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Truepill",
+      "value": 1.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Mercury",
+      "value": 1.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "SmartHR",
+      "value": 1.6,
+      "date": 2021,
+      "country": "Japón",
+      "industry": "Fintech"
+    },
+    {
+      "company": "DataStax",
+      "value": 1.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "ASAPP",
+      "value": 1.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "SafetyCulture",
+      "value": 1.6,
+      "date": 2021,
+      "country": "Australia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Clio",
+      "value": 1.6,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Tonal",
+      "value": 1.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Unite Us",
+      "value": 1.6,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "ezCater",
+      "value": 1.6,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Cao Cao Mobility",
+      "value": 1.6,
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Afiniti",
+      "value": 1.6,
+      "date": 2017,
+      "country": "Bermuda",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Infinidat",
+      "value": 1.6,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Promasidor Holdings",
+      "value": 1.59,
+      "date": 2016,
+      "country": "Sudáfrica",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "GalaxySpace",
+      "value": 1.58,
+      "date": 2020,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Fresh Life Style Supply Chain Management",
+      "value": 1.57,
+      "date": 2022,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Icon",
+      "value": 1.57,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Alloy",
+      "value": 1.55,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Kitopi",
+      "value": 1.55,
+      "date": 2021,
+      "country": "EAU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Wenheyou",
+      "value": 1.55,
+      "date": 2021,
+      "country": "China",
+      "industry": "Otros"
+    },
+    {
+      "company": "Iluvatar CoreX",
+      "value": 1.55,
+      "date": 2021,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Baiwang",
+      "value": 1.55,
+      "date": 2019,
+      "country": "China",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Loom",
+      "value": 1.53,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Carzone",
+      "value": 1.52,
+      "date": 2019,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Ximalaya FM",
+      "value": 1.52,
+      "date": 2017,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "First Mode",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Bilt Rewards",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Jasper",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Orna Therapeutics",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "5ire",
+      "value": 1.5,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Kushki",
+      "value": 1.5,
+      "date": 2022,
+      "country": "Ecuador",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Dock",
+      "value": 1.5,
+      "date": 2022,
+      "country": "Brasil",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Mashgin",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Upside",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Boba",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Fabric",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Temporales",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "ElasticRun",
+      "value": 1.5,
+      "date": 2022,
+      "country": "India",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Athelas",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Veriff",
+      "value": 1.5,
+      "date": 2022,
+      "country": "Estonia",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Spendesk",
+      "value": 1.5,
+      "date": 2022,
+      "country": "Francia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Il Makiage",
+      "value": 1.5,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "StoreDot",
+      "value": 1.5,
+      "date": 2022,
+      "country": "Israel",
+      "industry": "Otros"
+    },
+    {
+      "company": "Paradox",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Veho",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Airbyte",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Olist",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Brasil",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "CureFit",
+      "value": 1.5,
+      "date": 2021,
+      "country": "India",
+      "industry": "Salud"
+    },
+    {
+      "company": "Lusha",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "OpenWeb",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "candy.com",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "CoinList",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Built",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Andela",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Ascend Money",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Tailandia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Prometheus",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Persona",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Matillion",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "1047 Games",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "TaxBit",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Culture Amp",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Australia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "NotCo",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Chile",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "SmartRecruiters",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "impact.com",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "bolttech",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Fintech"
+    },
+    {
+      "company": "YunQuNa",
+      "value": 1.5,
+      "date": 2021,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Next Silicon",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Ledger",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Snapdocs",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Zeta",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Cognite",
+      "value": 1.5,
+      "date": 2021,
+      "country": "Noruega",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Inari",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "MOLOCO",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Pacaso",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ID.me",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Uplight",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "K Salud",
+      "value": 1.5,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Zenoti",
+      "value": 1.5,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Strava",
+      "value": 1.5,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Collective Salud",
+      "value": 1.5,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Cambridge Mobile Telematics",
+      "value": 1.5,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Yijiupi",
+      "value": 1.5,
+      "date": 2018,
+      "country": "China",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "JOLLY Information Technology",
+      "value": 1.5,
+      "date": 2018,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "XiaoZhu",
+      "value": 1.5,
+      "date": 2017,
+      "country": "China",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Changingedu",
+      "value": 1.5,
+      "date": 2017,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "DT Dream",
+      "value": 1.5,
+      "date": 2017,
+      "country": "China",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Gett",
+      "value": 1.5,
+      "date": 2016,
+      "country": "Reino Unido",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Mofang Living",
+      "value": 1.5,
+      "date": 2016,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "TuJia",
+      "value": 1.5,
+      "date": 2015,
+      "country": "China",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Mu Sigma",
+      "value": 1.5,
+      "date": 2013,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Yipin Shengxian",
+      "value": 1.49,
+      "date": 2019,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Arcadia",
+      "value": 1.48,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Bordrin Motors",
+      "value": 1.48,
+      "date": 2019,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "VTS",
+      "value": 1.47,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Huasun",
+      "value": 1.46,
+      "date": 2023,
+      "country": "China",
+      "industry": "Otros"
+    },
+    {
+      "company": "Shukun Technology",
+      "value": 1.46,
+      "date": 2021,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Aleo",
+      "value": 1.45,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "M1",
+      "value": 1.45,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Gymshark",
+      "value": 1.45,
+      "date": 2020,
+      "country": "Reino Unido",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Ouyeel",
+      "value": 1.45,
+      "date": 2019,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Juma Peisong",
+      "value": 1.45,
+      "date": 2018,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Coocaa",
+      "value": 1.45,
+      "date": 2018,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Einride",
+      "value": 1.44,
+      "date": 2021,
+      "country": "Suecia",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Justworks",
+      "value": 1.43,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SonderMind",
+      "value": 1.42,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Valgen Medtech",
+      "value": 1.43,
+      "date": 2021,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "Liquidity",
+      "value": 1.4,
+      "date": 2023,
+      "country": "Israel",
+      "industry": "Fintech"
+    },
+    {
+      "company": "boAT",
+      "value": 1.4,
+      "date": 2022,
+      "country": "India",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "OneCard",
+      "value": 1.4,
+      "date": 2022,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Nimble Rx",
+      "value": 1.4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Paddle",
+      "value": 1.4,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Bucketplace",
+      "value": 1.4,
+      "date": 2022,
+      "country": "Corea del Sur",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Clarify Salud",
+      "value": 1.4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Amagi",
+      "value": 1.4,
+      "date": 2022,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Amagi",
+      "value": 1.4,
+      "date": 2022,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Tripledot",
+      "value": 1.4,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Salt Security",
+      "value": 1.4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Firebolt",
+      "value": 1.4,
+      "date": 2022,
+      "country": "Israel",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "SparkCognition",
+      "value": 1.4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Deliverect",
+      "value": 1.4,
+      "date": 2022,
+      "country": "Bélgica",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Envoy",
+      "value": 1.4,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Figment",
+      "value": 1.4,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Pristyn Care",
+      "value": 1.4,
+      "date": 2021,
+      "country": "India",
+      "industry": "Salud"
+    },
+    {
+      "company": "Panther Labs",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Papa",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Rad Power Bikes",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "VideoAmp",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Rebel Foods",
+      "value": 1.4,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Coda",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Scalable Capital",
+      "value": 1.4,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Astranis Space Technologies",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Degreed",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "GupShup",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Phenom People",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Yotpo",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Epidemic Sound",
+      "value": 1.4,
+      "date": 2021,
+      "country": "Suecia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Stash",
+      "value": 1.4,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Kong",
+      "value": 1.4,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Away",
+      "value": 1.4,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Hive Box",
+      "value": 1.4,
+      "date": 2018,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Cabify",
+      "value": 1.4,
+      "date": 2018,
+      "country": "España",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Yidian Zixun",
+      "value": 1.4,
+      "date": 2017,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Symphony",
+      "value": 1.4,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Koudai",
+      "value": 1.4,
+      "date": 2014,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Neon",
+      "value": 1.38,
+      "date": 2022,
+      "country": "Brasil",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Veepee",
+      "value": 1.38,
+      "date": 2007,
+      "country": "Francia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Movable Ink",
+      "value": 1.36,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Generate Biomedicines",
+      "value": 1.36,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Extend",
+      "value": 1.36,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Epirus",
+      "value": 1.35,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Yaoshibang",
+      "value": 1.35,
+      "date": 2021,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "Klook",
+      "value": 1.35,
+      "date": 2018,
+      "country": "Hong Kong",
+      "industry": "Viajes"
+    },
+    {
+      "company": "DeepBlue Technology",
+      "value": 1.35,
+      "date": 2018,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Jaguar Microsystems",
+      "value": 1.34,
+      "date": 2022,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Signifyd",
+      "value": 1.34,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "RIDI",
+      "value": 1.33,
+      "date": 2022,
+      "country": "Corea del Sur",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Motorway",
+      "value": 1.33,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Athletic Greens",
+      "value": 1.32,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Tongdun Technology",
+      "value": 1.32,
+      "date": 2019,
+      "country": "China",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "GPclub",
+      "value": 1.32,
+      "date": 2018,
+      "country": "Corea del Sur",
+      "industry": "Otros"
+    },
+    {
+      "company": "Flipboard",
+      "value": 1.32,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Alzheon",
+      "value": 1.31,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Unisound",
+      "value": 1.31,
+      "date": 2018,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "MasterControl",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Equashield",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Shiprocket",
+      "value": 1.3,
+      "date": 2022,
+      "country": "India",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Optibus",
+      "value": 1.3,
+      "date": 2022,
+      "country": "Israel",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Biofourmis",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Island",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "LinkTree",
+      "value": 1.3,
+      "date": 2022,
+      "country": "Australia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Yubi",
+      "value": 1.3,
+      "date": 2022,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Clipboard Salud",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Loadsmart",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "CoinTracker",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Domestika",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Lukka",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ViajesPerk",
+      "value": 1.3,
+      "date": 2022,
+      "country": "España",
+      "industry": "Viajes"
+    },
+    {
+      "company": "iTrustCapital",
+      "value": 1.3,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "TUNGEE",
+      "value": 1.3,
+      "date": 2021,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Jokr",
+      "value": 1.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "YugaByte",
+      "value": 1.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Flock Freight",
+      "value": 1.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Betterment",
+      "value": 1.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Konfio",
+      "value": 1.3,
+      "date": 2021,
+      "country": "México",
+      "industry": "Fintech"
+    },
+    {
+      "company": "STORD",
+      "value": 1.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "DistroKid",
+      "value": 1.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Cava Group",
+      "value": 1.3,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "TalkingData",
+      "value": 1.3,
+      "date": 2021,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Manner",
+      "value": 1.3,
+      "date": 2020,
+      "country": "China",
+      "industry": "Otros"
+    },
+    {
+      "company": "Everly Salud",
+      "value": 1.3,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "InSightec",
+      "value": 1.3,
+      "date": 2020,
+      "country": "Israel",
+      "industry": "Salud"
+    },
+    {
+      "company": "The Brandtech Group",
+      "value": 1.3,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "HeartFlow",
+      "value": 1.3,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Huisuanzhang",
+      "value": 1.28,
+      "date": 2021,
+      "country": "China",
+      "industry": "Fintech"
+    },
+    {
+      "company": "OVO Energy",
+      "value": 1.28,
+      "date": 2019,
+      "country": "Reino Unido",
+      "industry": "Otros"
+    },
+    {
+      "company": "Intercom",
+      "value": 1.28,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "PeopleCert",
+      "value": 1.27,
+      "date": 2021,
+      "country": "Grecia",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "WTOIP",
+      "value": 1.27,
+      "date": 2018,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Greater Bay Technology",
+      "value": 1.26,
+      "date": 2022,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "JMGO",
+      "value": 1.26,
+      "date": 2022,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "ClassDojo",
+      "value": 1.25,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "airSlate",
+      "value": 1.25,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Talos",
+      "value": 1.25,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "CaptivateIQ",
+      "value": 1.25,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Route",
+      "value": 1.25,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Flipdish",
+      "value": 1.25,
+      "date": 2022,
+      "country": "Irlanda",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Tackle.io",
+      "value": 1.25,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Incode Technologies",
+      "value": 1.25,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Mythical Games",
+      "value": 1.25,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Honor Technology",
+      "value": 1.25,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Marshmallow",
+      "value": 1.25,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "BigID",
+      "value": 1.25,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Kuaikan Manhua",
+      "value": 1.25,
+      "date": 2017,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SeatGeek",
+      "value": 1.24,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Shulan Salud",
+      "value": 1.24,
+      "date": 2021,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "Enflame",
+      "value": 1.24,
+      "date": 2021,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "BrewDog",
+      "value": 1.24,
+      "date": 2017,
+      "country": "Reino Unido",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Nexii",
+      "value": 1.23,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Otros"
+    },
+    {
+      "company": "inDriver",
+      "value": 1.23,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "EQRx",
+      "value": 1.23,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Insider",
+      "value": 1.22,
+      "date": 2022,
+      "country": "Turquía",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Kallyope",
+      "value": 1.22,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Spiber",
+      "value": 1.22,
+      "date": 2021,
+      "country": "Japón",
+      "industry": "Otros"
+    },
+    {
+      "company": "Our Next Energy",
+      "value": 1.2,
+      "date": 2023,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Swiftly",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Spectrum Medical",
+      "value": 1.2,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Salud"
+    },
+    {
+      "company": "stori",
+      "value": 1.2,
+      "date": 2022,
+      "country": "México",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Zip",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Unit",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Choco",
+      "value": 1.2,
+      "date": 2022,
+      "country": "Alemania",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Viz.ai",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Nova Labs",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Xpressbees",
+      "value": 1.2,
+      "date": 2022,
+      "country": "India",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "LivSpace",
+      "value": 1.2,
+      "date": 2022,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Phantom",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "BigPanda",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "SeekOut",
+      "value": 1.2,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Merama",
+      "value": 1.2,
+      "date": 2021,
+      "country": "México",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "AgentSync",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "MyGlamm",
+      "value": 1.2,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "CarDekho",
+      "value": 1.2,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Gem",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Copado",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Offchain Labs",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "MindTickle",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "FloQast",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Rohlik Group",
+      "value": 1.2,
+      "date": 2021,
+      "country": "República Checa",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "SmartMore",
+      "value": 1.2,
+      "date": 2021,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "DailyPay",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Ada Support",
+      "value": 1.2,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Vectra Networks",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Aibee",
+      "value": 1.2,
+      "date": 2021,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Pilot.com",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Pipa Coding",
+      "value": 1.2,
+      "date": 2021,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Public",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Tealium",
+      "value": 1.2,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Qumulo",
+      "value": 1.2,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Workhuman",
+      "value": 1.2,
+      "date": 2020,
+      "country": "Irlanda",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Fair",
+      "value": 1.2,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Yiguo",
+      "value": 1.2,
+      "date": 2016,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Mininglamp Technology",
+      "value": 1.19,
+      "date": 2019,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "L&P Cosmetic",
+      "value": 1.19,
+      "date": 2016,
+      "country": "Corea del Sur",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Luoji Siwei",
+      "value": 1.18,
+      "date": 2017,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "IRL",
+      "value": 1.17,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Modern Salud",
+      "value": 1.17,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Yimidida",
+      "value": 1.17,
+      "date": 2019,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Younited",
+      "value": 1.16,
+      "date": 2022,
+      "country": "Francia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "SOURCE Global",
+      "value": 1.16,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Tuhu",
+      "value": 1.16,
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Happy Money",
+      "value": 1.15,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "CloudBees",
+      "value": 1.15,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Elemy",
+      "value": 1.15,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Rebellion Defense",
+      "value": 1.15,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Guideline",
+      "value": 1.15,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Venafi",
+      "value": 1.15,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "LifeMiles",
+      "value": 1.15,
+      "date": 2015,
+      "country": "Colombia",
+      "industry": "Otros"
+    },
+    {
+      "company": "DANA",
+      "value": 1.13,
+      "date": 2022,
+      "country": "Indonesia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Visby Medical",
+      "value": 1.12,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "At-Bay",
+      "value": 1.12,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "TELD",
+      "value": 1.12,
+      "date": 2019,
+      "country": "China",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Wasabi",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Invoca",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Purplle",
+      "value": 1.1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Recover",
+      "value": 1.1,
+      "date": 2022,
+      "country": "España",
+      "industry": "Otros"
+    },
+    {
+      "company": "PhysicsWallah",
+      "value": 1.1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Nowports",
+      "value": 1.1,
+      "date": 2022,
+      "country": "México",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Caribou",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Imply Data",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Material Security",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Teleport",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "IntelyCare",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Chief",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Staffbase",
+      "value": 1.1,
+      "date": 2022,
+      "country": "Alemania",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Beyond Identity",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "eSentire",
+      "value": 1.1,
+      "date": 2022,
+      "country": "Canadá",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "LEAD",
+      "value": 1.1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Edtech"
+    },
+    {
+      "company": "CAIS",
+      "value": 1.1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "GlobalBees",
+      "value": 1.1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Turing",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Fundbox",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "The Bank of Reino Unido",
+      "value": 1.1,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Daily Harvest",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Gaussian Robotics",
+      "value": 1.1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Acko General Insurance",
+      "value": 1.1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Enpal",
+      "value": 1.1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Karat",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "apna",
+      "value": 1.1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Carousell",
+      "value": 1.1,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "People.ai",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "G2",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Qingting FM",
+      "value": 1.1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Sunbit",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Firefly Aerospace",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Rightway",
+      "value": 1.1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Zego",
+      "value": 1.1,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Nexthink",
+      "value": 1.1,
+      "date": 2021,
+      "country": "Suiza",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Sennder",
+      "value": 1.1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Pharmapacks",
+      "value": 1.1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Sisense",
+      "value": 1.1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Ivalua",
+      "value": 1.1,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "GetYourGuide",
+      "value": 1.1,
+      "date": 2019,
+      "country": "Alemania",
+      "industry": "Viajes"
+    },
+    {
+      "company": "OVH",
+      "value": 1.1,
+      "date": 2016,
+      "country": "Francia",
+      "industry": "Otros"
+    },
+    {
+      "company": "Juanpi",
+      "value": 1.1,
+      "date": 2016,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "AppDirect",
+      "value": 1.1,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "TangoMe",
+      "value": 1.1,
+      "date": 2014,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "56PINGTAI",
+      "value": "01.08",
+      "date": 2021,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "UISEE Technology",
+      "value": "01.08",
+      "date": 2021,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Nxin",
+      "value": "01.08",
+      "date": 2018,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Cirkul",
+      "value": "01.07",
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Mamaearth",
+      "value": "01.07",
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Rivigo",
+      "value": "01.07",
+      "date": 2019,
+      "country": "India",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Radius Payment Solutions",
+      "value": "01.07",
+      "date": 2017,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "MobileCoin",
+      "value": "01.06",
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "0x",
+      "value": "01.05",
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Branch",
+      "value": "01.05",
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Mixpanel",
+      "value": "01.05",
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Density",
+      "value": "01.05",
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Matrixport",
+      "value": "01.05",
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Sendbird",
+      "value": "01.05",
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Instabase",
+      "value": "01.05",
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Jiuxian",
+      "value": "01.05",
+      "date": 2015,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "OrCam Technologies",
+      "value": "01.03",
+      "date": 2018,
+      "country": "Israel",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Ample",
+      "value": "01.02",
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "BlackBuck",
+      "value": "01.02",
+      "date": 2021,
+      "country": "India",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Wheel",
+      "value": "01.01",
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Leap Motor",
+      "value": "01.01",
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "Adept",
+      "value": 1,
+      "date": 2023,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Character.AI",
+      "value": 1,
+      "date": 2023,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Atmosphere",
+      "value": 1,
+      "date": 2023,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "MNT-Halan",
+      "value": 1,
+      "date": 2023,
+      "country": "Egipto",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Beamery",
+      "value": 1,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Augustinus Bader",
+      "value": 1,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Xanadu",
+      "value": 1,
+      "date": 2022,
+      "country": "Canadá",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Vesttoo",
+      "value": 1,
+      "date": 2022,
+      "country": "Israel",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Celestia",
+      "value": 1,
+      "date": 2022,
+      "country": "Liechtenstein",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Factorial",
+      "value": 1,
+      "date": 2022,
+      "country": "España",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Stability AI",
+      "value": 1,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Satispay",
+      "value": 1,
+      "date": 2022,
+      "country": "Italia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "LINE MAN Wongnai",
+      "value": 1,
+      "date": 2022,
+      "country": "Tailandia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Zebec",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Flow",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Paystand",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Unstoppable Domains",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SingleStore",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "VulcanForms",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "FourKites",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "LeadSquared",
+      "value": 1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Turntide Technologies",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "EcoVadis",
+      "value": 1,
+      "date": 2022,
+      "country": "Francia",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Immuta",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "CareBridge",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Vayyar",
+      "value": 1,
+      "date": 2022,
+      "country": "Israel",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Perimeter 81",
+      "value": 1,
+      "date": 2022,
+      "country": "Israel",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "JupiterOne",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "TransferMate",
+      "value": 1,
+      "date": 2022,
+      "country": "Irlanda",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Glean",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Habi",
+      "value": 1,
+      "date": 2022,
+      "country": "Colombia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Remarkable",
+      "value": 1,
+      "date": 2022,
+      "country": "Noruega",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Opn",
+      "value": 1,
+      "date": 2022,
+      "country": "Japón",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Polarium",
+      "value": 1,
+      "date": 2022,
+      "country": "Suecia",
+      "industry": "Otros"
+    },
+    {
+      "company": "Open",
+      "value": 1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Taxfix",
+      "value": 1,
+      "date": 2022,
+      "country": "Alemania",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Divergent 3D",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "UPSIDE Foods",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "NexSalud",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Flexe",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Oyster",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Genies",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Grover",
+      "value": 1,
+      "date": 2022,
+      "country": "Alemania",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "BostonGene",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "LayerZero Labs",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Electric",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Tarana Wireless",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "RapidAPI",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "CommerceIQ",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Glia",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "FLASH",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Aptos",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Gauntlet Networks",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Vendr",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Veev",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "BlueVoyant",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Omada Salud",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Scalapay",
+      "value": 1,
+      "date": 2022,
+      "country": "Italia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Timescale",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Hasura",
+      "value": 1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "CHEQ",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Axelar",
+      "value": 1,
+      "date": 2022,
+      "country": "Canadá",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Payhawk",
+      "value": 1,
+      "date": 2022,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Scandit",
+      "value": 1,
+      "date": 2022,
+      "country": "Suiza",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Watershed",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Dune Analytics",
+      "value": 1,
+      "date": 2022,
+      "country": "Noruega",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Betterfly",
+      "value": 1,
+      "date": 2022,
+      "country": "Chile",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Esusu",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Minio",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Darwinbox",
+      "value": 1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Placer.ai",
+      "value": 1,
+      "date": 2022,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Pentera",
+      "value": 1,
+      "date": 2022,
+      "country": "Israel",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Assent",
+      "value": 1,
+      "date": 2022,
+      "country": "Canadá",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Fractal Analytics",
+      "value": 1,
+      "date": 2022,
+      "country": "India",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Kopi Kenangan",
+      "value": 1,
+      "date": 2021,
+      "country": "Indonesia",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Haomao.AI",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "VOI",
+      "value": 1,
+      "date": 2021,
+      "country": "Suecia",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Rothy's",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "InFarm",
+      "value": 1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Otros"
+    },
+    {
+      "company": "Noname Security",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Cadence",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "SnapLogic",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "SellerX",
+      "value": 1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "ONE",
+      "value": 1,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Lydia",
+      "value": 1,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Anyscale",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Pet Circle",
+      "value": 1,
+      "date": 2021,
+      "country": "Australia",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "YipitData",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Clara",
+      "value": 1,
+      "date": 2021,
+      "country": "México",
+      "industry": "Fintech"
+    },
+    {
+      "company": "ReliaQuest",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Iodine Software",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Lessen",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "NoBroker",
+      "value": 1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Expel",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Owkin",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Stytch",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "PLACE",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Heyday",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Mensa Brands",
+      "value": 1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Otros"
+    },
+    {
+      "company": "Wrapbook",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Contrast Security",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "IGAWorks",
+      "value": 1,
+      "date": 2021,
+      "country": "Corea del Sur",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Razor",
+      "value": 1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Vagaro",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Tezign",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Moka",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Augury",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Fabric",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "CargoX",
+      "value": 1,
+      "date": 2021,
+      "country": "Brasil",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Dental Monitoring",
+      "value": 1,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Salud"
+    },
+    {
+      "company": "Zopa",
+      "value": 1,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Weights & Biases",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "MobiKwik",
+      "value": 1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Hailo",
+      "value": 1,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Swile",
+      "value": 1,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Solo.io",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Chronosphere",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Masterworks",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Licious",
+      "value": 1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Ajaib",
+      "value": 1,
+      "date": 2021,
+      "country": "Indonesia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "TrialSpark",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Vedantu",
+      "value": 1,
+      "date": 2021,
+      "country": "India",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Ninja Van",
+      "value": 1,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "HAYDON",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "PandaDoc",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Assembly",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "TrueLayer",
+      "value": 1,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Keenon Robotics",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Xendit",
+      "value": 1,
+      "date": 2021,
+      "country": "Indonesia",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Orchard",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Mammoth Biosciences",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Agile Robots",
+      "value": 1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Cider",
+      "value": 1,
+      "date": 2021,
+      "country": "Hong Kong",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Berlin Brands Group",
+      "value": 1,
+      "date": 2021,
+      "country": "Alemania",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "1KMXC",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "PicsArt",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Maven Clinic",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Gelato",
+      "value": 1,
+      "date": 2021,
+      "country": "Noruega",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Freshbooks",
+      "value": 1,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Snorkel AI",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Bluecore",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Human Interest",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Interos",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Nature's Fynd",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Carson Group",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "NIUM",
+      "value": 1,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Pantheon Systems",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Amperity",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "dMed Biopharmaceutical",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "Xiaoice",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "ShipBob",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Visier",
+      "value": 1,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Worldcoin",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "SmartAsset",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Aircall",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Simply",
+      "value": 1,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Claroty",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Bringg",
+      "value": 1,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Tractable",
+      "value": 1,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Xiaoe Tech",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Carro",
+      "value": 1,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "EcoFlow",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Morning Consult",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "LetsGetChecked",
+      "value": 1,
+      "date": 2021,
+      "country": "Irlanda",
+      "industry": "Salud"
+    },
+    {
+      "company": "Thirty Madison",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Shippo",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "XForcePlus",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Printful",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Vise",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Amount",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Axtria",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Zihaiguo",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Shift Technology",
+      "value": 1,
+      "date": 2021,
+      "country": "Francia",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "TensTorrent",
+      "value": 1,
+      "date": 2021,
+      "country": "Canadá",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Mux",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Capsule",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Sift",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Injective Protocol",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Fiture",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "Groq",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Clearcover",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "The Zebra",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Hyperchain",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Fintech"
+    },
+    {
+      "company": "SaltPay",
+      "value": 1,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Cameo",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Yunxuetang",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Feedzai",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Evidation",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "PatSnap",
+      "value": 1,
+      "date": 2021,
+      "country": "Singapur",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Aqua Security",
+      "value": 1,
+      "date": 2021,
+      "country": "Israel",
+      "industry": "Ciberseguridad"
+    },
+    {
+      "company": "Newsela",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "WeBull",
+      "value": 1,
+      "date": 2021,
+      "country": "China",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Standard AI",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Locus Robotics",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Axiom Space",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Savage X Fenty",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Flash Express",
+      "value": 1,
+      "date": 2021,
+      "country": "Tailandia",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Splashtop",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Sidecar Salud",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "PPRO",
+      "value": 1,
+      "date": 2021,
+      "country": "Reino Unido",
+      "industry": "Fintech"
+    },
+    {
+      "company": "MadeiraMadeira",
+      "value": 1,
+      "date": 2021,
+      "country": "Brasil",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "News Break",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Quantum Metric",
+      "value": 1,
+      "date": 2021,
+      "country": "EEUU",
+      "industry": "Gestión de datos y analítica"
+    },
+    {
+      "company": "Boom Supersonic",
+      "value": 1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Playco",
+      "value": 1,
+      "date": 2020,
+      "country": "Japón",
+      "industry": "Otros"
+    },
+    {
+      "company": "Zwift",
+      "value": 1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Infobip",
+      "value": 1,
+      "date": 2020,
+      "country": "Croatia",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Orca Bio",
+      "value": 1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Quizlet",
+      "value": 1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Emerging Markets Property Group",
+      "value": 1,
+      "date": 2020,
+      "country": "EAU",
+      "industry": "Otros"
+    },
+    {
+      "company": "Hotmart",
+      "value": 1,
+      "date": 2020,
+      "country": "Holanda",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Alto Pharmacy",
+      "value": 1,
+      "date": 2020,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "EBANX",
+      "value": 1,
+      "date": 2019,
+      "country": "Brasil",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Numbrs",
+      "value": 1,
+      "date": 2019,
+      "country": "Suiza",
+      "industry": "Fintech"
+    },
+    {
+      "company": "C2FO",
+      "value": 1,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Ibotta",
+      "value": 1,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Meero",
+      "value": 1,
+      "date": 2019,
+      "country": "Francia",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Yanolja",
+      "value": 1,
+      "date": 2019,
+      "country": "Corea del Sur",
+      "industry": "Viajes"
+    },
+    {
+      "company": "KnowBox",
+      "value": 1,
+      "date": 2019,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "SITECH DEV",
+      "value": 1,
+      "date": 2019,
+      "country": "China",
+      "industry": "Otros"
+    },
+    {
+      "company": "Poizon",
+      "value": 1,
+      "date": 2019,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Intellifusion",
+      "value": 1,
+      "date": 2019,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Ynsect",
+      "value": 1,
+      "date": 2019,
+      "country": "Francia",
+      "industry": "Otros"
+    },
+    {
+      "company": "Globality",
+      "value": 1,
+      "date": 2019,
+      "country": "EEUU",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "REEF Technology",
+      "value": 1,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "BitFury",
+      "value": 1,
+      "date": 2018,
+      "country": "Holanda",
+      "industry": "Hardware"
+    },
+    {
+      "company": "TERMINUS Technology",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Omio",
+      "value": 1,
+      "date": 2018,
+      "country": "Alemania",
+      "industry": "Viajes"
+    },
+    {
+      "company": "Hosjoy",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Momenta",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "Tresata",
+      "value": 1,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Banma Network Technologies",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Auto y transporte"
+    },
+    {
+      "company": "FlashEx",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Wacai",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Pat McGrath Labs",
+      "value": 1,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Movile",
+      "value": 1,
+      "date": 2018,
+      "country": "Brasil",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "MediaMath",
+      "value": 1,
+      "date": 2018,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "LinkDoc Technology",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "China Cloud",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Hardware"
+    },
+    {
+      "company": "Huike Group",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "HMD Global",
+      "value": 1,
+      "date": 2018,
+      "country": "Finlandia",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "Dxy.cn",
+      "value": 1,
+      "date": 2018,
+      "country": "China",
+      "industry": "Salud"
+    },
+    {
+      "company": "Maimai",
+      "value": 1,
+      "date": 2017,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "WeLab",
+      "value": 1,
+      "date": 2017,
+      "country": "Hong Kong",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Revolution Precrafted",
+      "value": 1,
+      "date": 2017,
+      "country": "Filipinas",
+      "industry": "Otros"
+    },
+    {
+      "company": "YH Global",
+      "value": 1,
+      "date": 2017,
+      "country": "China",
+      "industry": "Logística y delivery"
+    },
+    {
+      "company": "Cell C",
+      "value": 1,
+      "date": 2017,
+      "country": "Sudáfrica",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "DianRong",
+      "value": 1,
+      "date": 2017,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Zhaogang",
+      "value": 1,
+      "date": 2017,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Modernizing Medicine",
+      "value": 1,
+      "date": 2017,
+      "country": "EEUU",
+      "industry": "Salud"
+    },
+    {
+      "company": "Zhuan Zhuan",
+      "value": 1,
+      "date": 2017,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Mobvoi",
+      "value": 1,
+      "date": 2017,
+      "country": "China",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "Kendra Scott",
+      "value": 1,
+      "date": 2016,
+      "country": "EEUU",
+      "industry": "Consumo y retail"
+    },
+    {
+      "company": "SMS Assist",
+      "value": 1,
+      "date": 2016,
+      "country": "EEUU",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "iCarbonX",
+      "value": 1,
+      "date": 2016,
+      "country": "China",
+      "industry": "Inteligencia artificial"
+    },
+    {
+      "company": "MindMaze",
+      "value": 1,
+      "date": 2016,
+      "country": "Suiza",
+      "industry": "Salud"
+    },
+    {
+      "company": "iTutorGroup",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "HuJiang",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Edtech"
+    },
+    {
+      "company": "Womai",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "58 Daojia",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Software y servicios"
+    },
+    {
+      "company": "Mia.com",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "FXiaoKe",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "JimuBox",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Fintech"
+    },
+    {
+      "company": "Lamabang",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "BeiBei",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Red Ventures",
+      "value": 1,
+      "date": 2015,
+      "country": "EEUU",
+      "industry": "Otros"
+    },
+    {
+      "company": "LinkSure Network",
+      "value": 1,
+      "date": 2015,
+      "country": "China",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "InMobi",
+      "value": 1,
+      "date": 2014,
+      "country": "India",
+      "industry": "Telecomunicaciones"
+    },
+    {
+      "company": "TechStyle Fashion Group",
+      "value": 1,
+      "date": 2014,
+      "country": "EEUU",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Snapdeal",
+      "value": 1,
+      "date": 2014,
+      "country": "India",
+      "industry": "Comercio electrónico"
+    },
+    {
+      "company": "Lookout",
+      "value": 1,
+      "date": 2013,
+      "country": "EEUU",
+      "industry": "Ciberseguridad"
+    }
+  ]

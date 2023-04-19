@@ -1,1 +1,1 @@
-# rotation-globe
+To run the application, node must be updated to the minimum version v16.19.0 and run npm i vite.
